@@ -1,0 +1,26 @@
+body>section
+{
+    align-content: center;
+
+}
+.div-login
+{
+
+    border-color: azure;
+    border-style:solid ;
+    border-radius: 15px;
+
+    height: 350px;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 5%;
+
+}
+.div-login>h4
+{
+    align-content: center;
+    text-align: center;
+    width: 100%;
+
+
+}
